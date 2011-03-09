@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Software Versions
-Version: 0.2
+Version: 1.0
 Plugin URI: http://stephenyeargin.com/blog/tag/plugins/
 Description: Versions of server software returned in post or page content if <code>[version:{software}]</code> or <code>[version&nbsp;type='{software}']</code> tag (2.5.1 or later) is included. Available software: <code>php, mysql, wordpress</code>.
 Author: Stephen Yeargin
